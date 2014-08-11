@@ -1,0 +1,13 @@
+/Users/j/Projects/Phoneword/Phoneword_droid/obj/Debug/MonoAndroid,Version=v2.2.AssemblyAttribute.cs
+/Users/j/Projects/Phoneword/Phoneword_droid/bin/Debug/Phoneword_droid.dll.mdb
+/Users/j/Projects/Phoneword/Phoneword_droid/bin/Debug/Phoneword_droid.dll
+/Users/j/Projects/Phoneword/Phoneword_droid/bin/Debug/Phoneword_droid.Phoneword_droid.apk
+/Users/j/Projects/Phoneword/Phoneword_droid/obj/Debug/android/bin/Phoneword_droid.Phoneword_droid.apk
+/Users/j/Projects/Phoneword/Phoneword_droid/obj/Debug/res/layout/main.xml
+/Users/j/Projects/Phoneword/Phoneword_droid/obj/Debug/res/values/strings.xml
+/Users/j/Projects/Phoneword/Phoneword_droid/obj/Debug/res/drawable/icon.png
+/Users/j/Projects/Phoneword/Phoneword_droid/obj/Debug/R.cs.flag
+/Users/j/Projects/Phoneword/Phoneword_droid/bin/Debug/Phoneword_droid.Phoneword_droid-Signed.apk
+/Users/j/Projects/Phoneword/Phoneword_droid/obj/Debug/uploadflags.txt
+/Users/j/Projects/Phoneword/Phoneword_droid/obj/Debug/Phoneword_droid.dll
+/Users/j/Projects/Phoneword/Phoneword_droid/obj/Debug/Phoneword_droid.dll.mdb
